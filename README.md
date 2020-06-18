@@ -1,2 +1,2 @@
 # rfelker.github.io.hugo
-hugo project for generating the homepage
+hugo project for generating the homepage of Rolf
