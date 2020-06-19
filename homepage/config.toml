@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://felker.org/"
+languageCode = "de-de"
+title = "felker.org"
+theme = "minimal"
+
+[params]
+# -------------------------------------------------------    
+# parameters for minimal theme
+accent = "red"
+showBorder = true
+backgroundColor = "white"
+font = "Raleway" # should match the name on Google Fonts!
+highlight = true
+highlightStyle = "solarized-dark"
+highlightLanguages = ["java", "javascript", "kotlin", "scala"]
+# -------------------------------------------------------
