@@ -1,4 +1,4 @@
-baseURL = "http://felker.org/"
+baseURL = "https://www.felker.org/"
 languageCode = "de-de"
 title = "felker.org"
 theme = "minimal"
