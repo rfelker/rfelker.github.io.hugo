@@ -1,0 +1,21 @@
+.experience__bullet {
+    list-style: square outside;
+    margin-left: 1.8rem;
+}
+
+.avatar {
+    padding-top: 1rem;
+}
+
+.avatar__container {
+    clip-path: circle(50% at 50% 50%);
+}
+
+.avatar__img {
+    object-position: center 0%;
+}
+
+.credly-link {
+    color: #c0392b;
+    text-decoration: underline;
+}

@@ -1,0 +1,27 @@
+{{ if .Education }}
+<div id="education" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">
+            {{ i18n "education" }}
+        </h2>
+    </div>
+    <div class="section__content">
+        <div class="experience">
+            {{ range .Education }}
+            <div class="experience__item">
+                <div class="experience__header">
+                    <h3 class="experience__company">{{ .Institution | safeHTML }}</h3>
+                    <h3 class="experience__place">{{ .Place | safeHTML }}</h3>
+                </div>
+                <div class="experience__job">
+                    <div class="experience__subheader">
+                        <h3 class="experience__position">{{ .Course | safeHTML }}</h3>
+                        <h3 class="experience__date">{{ .Date | safeHTML }}</h3>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

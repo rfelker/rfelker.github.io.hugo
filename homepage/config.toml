@@ -1,16 +1,25 @@
 baseURL = "https://www.felker.org/"
 languageCode = "de-de"
-title = "felker.org"
-theme = "minimal"
+defaultContentLanguage = "de"
+title = "Rolf Felker – CV"
+theme = "almeida-cv"
+disableHugoGeneratorInject = true
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 [params]
-# -------------------------------------------------------    
-# parameters for minimal theme
-accent = "red"
-showBorder = true
-backgroundColor = "white"
-font = "Raleway" # should match the name on Google Fonts!
-highlight = true
-highlightStyle = "solarized-dark"
-highlightLanguages = ["java", "javascript", "kotlin", "scala"]
-# -------------------------------------------------------
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#444"
+colorPageBackground = "#ddd"
+colorPrimary = "#c0392b"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#c0392b"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#555"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#c0392b"
+pages = 2
+swapColumns = false
+footerNote = "Rolf Felker · felker.org"

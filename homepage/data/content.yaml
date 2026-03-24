@@ -1,0 +1,143 @@
+BasicInfo:
+  FirstName: Rolf
+  LastName: Felker
+  Photo: img/rolf.jpg
+  Contacts:
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://www.codecentric.de" target="_blank">codecentric.de</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/rolf-felker" target="_blank">linkedin.com/in/rolf-felker</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Mettmann, Deutschland
+
+Profile: Mit über 30 Jahren Erfahrung in der IT-Branche bringe ich eine einzigartige Kombination aus technischer Expertise, unternehmerischem Denken und leidenschaftlicher Führungskompetenz mit. Als erfahrener Consultant und Leader habe ich bei IBM und seit fast 18 Jahren bei codecentric zahlreiche Kunden und Teams erfolgreich begleitet und gestaltet. Meine Stärke liegt darin, Menschen zu inspirieren, Organisationen weiterzuentwickeln und nachhaltige Mehrwerte zu schaffen.
+
+Experience:
+  - Employer: codecentric AG
+    Place: Solingen
+    Positions:
+      - Title: Service Lead – Cloud Solutions
+        Date: Jan 2025 – Heute
+        Details:
+          - Gestaltung der Transformation hin zu einer serviceorientierten Organisation
+          - Entwickeln erster Offerings und Capabilities des Cloud Services
+          - Delivery Manager für eine mittelgroße Versicherung in Düsseldorf
+          - People Lead für 18 Mitarbeitende
+          - Recruiting
+        Badges: ['Cloud Solutions', 'Service Design', 'People Lead', 'Delivery Management']
+      - Title: Leiter der Niederlassung Solingen
+        Date: Jan 2018 – Dez 2024
+        Details:
+          - Verantwortlich für die Wirtschaftlichkeit des Standorts mit über 100 Mitarbeitenden
+          - Standortmanagement und Recruiting
+          - Themenentwicklung von Shift Left Security und Aufbau einer Architecture Lane
+          - Delivery Manager für Kunden aus Versicherung, Industrie und Handel
+          - Presales und Mitarbeit an Ausschreibungen
+          - People Lead für bis zu 31 Mitarbeitende
+        Badges: ['Standortleitung', 'Delivery Management', 'Presales', 'People Lead']
+      - Title: Team Lead – Cloud & Industry 4.0
+        Date: Jan 2016 – Dez 2017
+        Details:
+          - Aufbau einer Cloud/OnPrem-Lösung zur Anbindung von Maschinen und einem Maschinen-Dashboard
+          - Team Enablement und Ergebnisverantwortung
+          - Presales in der Neukundengewinnung
+          - Delivery Manager für verschiedene Industriekunden
+        Badges: ['Cloud', 'Industry 4.0', 'Team Lead', 'Delivery Management']
+      - Title: Product Owner Coach & Agile Consultant
+        Date: Jan 2013 – Dez 2015
+        Details:
+          - Durchführung von agilen Transformationen, u.a. bei einer großen Versicherung in Hamburg
+          - Coaching eines Product Owner Teams von 9 Product Ownern in München (ein Jahr)
+          - Coaching von Product Ownern und Scrum Mastern bei verschiedenen Kunden
+        Badges: ['Agile Coaching', 'Scrum', 'Product Owner', 'Transformation']
+      - Title: Java Enterprise Developer & IT Architect
+        Date: Jan 2008 – Dez 2012
+        Details:
+          - Softwareentwicklung im Frontend und Backend sowie Entwurf von Architekturen im Java EE Umfeld
+          - Projekte bei Kunden in der Versicherungsbranche
+        Badges: ['Java EE', 'IT-Architektur', 'Frontend', 'Backend']
+  - Employer: IBM / SerCon GmbH
+    Place: Düsseldorf
+    Positions:
+      - Title: Senior IT-Specialist, IT-Berater
+        Date: Apr 2001 – Dez 2007
+        Details:
+          - Softwareentwicklung und Architektur im Java EE Umfeld bei Kunden aus Versicherung und Handel
+          - Durchführung von Workshops
+          - Unterstützung beim Presales
+        Badges: ['Java EE', 'IT-Architektur', 'Consulting', 'Presales']
+  - Employer: ITERGO
+    Place: Düsseldorf
+    Positions:
+      - Title: Softwareentwickler & IT-Teilprojektleiter
+        Date: Okt 1998 – Mär 2001
+        Details: []
+        Badges: []
+  - Employer: o.tel.o / Lion GmbH
+    Place: Bochum
+    Positions:
+      - Title: Softwareentwickler
+        Date: Feb 1995 – Sep 1998
+        Details:
+          - Entwicklung einer Software für die Immobilienwirtschaft
+        Badges: []
+  - Employer: Fachhochschule Dortmund
+    Place: Dortmund
+    Positions:
+      - Title: Wissenschaftlicher Mitarbeiter
+        Date: Jul 1994 – Jan 1995
+        Details: []
+        Badges: []
+
+Education:
+  - Institution: Fachhochschule Dortmund
+    Place: Dortmund
+    Course: Diplom Informatiker (FH) – Technische Informatik
+    Date: Okt 1990 – Jul 1994
+  - Institution: Deilmann-Haniel GmbH
+    Place: Dortmund
+    Course: Ausbildung zum Energieanlagenelektroniker
+    Date: Aug 1984 – Aug 1988
+
+Skills:
+  - Family: Leadership & Management
+    Items:
+      - Standortleitung
+      - Servant Leadership
+      - New Work
+      - Teamleitung
+      - Delivery Management
+      - Presales
+  - Family: Agile & Architektur
+    Items:
+      - Agile Coaching
+      - Agile Transformation
+      - IT-Architekturen
+      - Certified ScrumMaster
+      - Certified Scrum Product Owner
+  - Family: Cloud
+    Items:
+      - Cloud Solutions
+      - AWS Solutions Architect
+      - AWS Cloud Practitioner
+  - Family: Soft Skills
+    Items:
+      - Kundenorientierung
+      - Empathie
+      - Kommunikation
+      - Motivation
+      - Loyalität
+
+Languages:
+  - Name: Deutsch
+    Level: Muttersprache
+  - Name: Englisch
+    Level: Gut
+
+Diplomas:
+  - Certified ScrumMaster
+  - Certified Scrum Product Owner
+  - Certified Professional for Software Architecture (iSAQB)
+  - AWS Certified Solutions Architect – Associate
+  - AWS Certified Cloud Practitioner
+  - <a href="https://www.credly.com/users/rolf-felker" target="_blank" class="credly-link">Weitere Zertifikate auf Credly</a>
